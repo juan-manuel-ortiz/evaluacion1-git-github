@@ -29,5 +29,8 @@ El evento se realizara en el CDITI SENA Dosquebradas y la pagina incluye un enla
 
 ## Clonar el proyecto
 
+## Clonar el proyecto
+
 ```bash
 git clone https://github.com/juan-manuel-ortiz/evaluacion1-git-github.git
+```

@@ -8,7 +8,7 @@ Copia el texto de la historia y sus criterios en el issue.
 ## HU-01 · Agenda del evento
 
 **Como** participante, **quiero** ver la agenda con las horas de cada actividad,
-**para** organizar mi tiempo durante la hackatón.
+**para** organizar mi tiempo durante la hackaton.
 
 Criterios de aceptación:
 

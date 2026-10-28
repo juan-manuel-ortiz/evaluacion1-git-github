@@ -36,4 +36,6 @@ Criterios de aceptación:
 
 Criterios de aceptación:
 
-<!-- TODO: escribe al menos 2 criterios con el formato Dado / cuando / entonces -->
+
+- **Dado** que estoy en el sitio, **cuando** pulso "Ubicacion" en el menu, **entonces** la pagina baja a la seccion de ubicacion.
+- **Dado** que estoy en la seccion de ubicacion, **cuando** consulto la informacion, **entonces** veo la direccion del evento y un enlace al mapa.
